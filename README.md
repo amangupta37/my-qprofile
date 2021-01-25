@@ -1,10 +1,6 @@
 # Profile FE
 
-## Testing
 
-```bash
-npm test
-```
 
 ## Local Run
 
